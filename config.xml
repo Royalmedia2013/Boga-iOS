@@ -3,8 +3,8 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
 	xmlns:android   = "http://schemas.android.com/apk/res/android"
     id        = "com.boga.android.cell"
-    version   = "2.15.02"
-	versionCode = "368">
+    version   = "2.15.03"
+	versionCode = "369">
 
 <name>Revista Boga</name>
 
